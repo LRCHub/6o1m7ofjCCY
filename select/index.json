@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "You Only Love Me",
+  "base_artist": "Rita Ora",
+  "createdAt": "2026-04-03T22:34:40.516283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/01_You_Only_Love_Me_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/02_You_Only_Love_Me_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/03_You_Only_Love_Me_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/04_You_Only_Love_Me_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/05_You_Only_Love_Me_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "YOU ONLY LOVE ME",
+      "artist": "John De Sohn",
+      "has_synced": true,
+      "path": "select/06_YOU_ONLY_LOVE_ME_John_De_Sohn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "Rita Ora, Shift K3Y",
+      "has_synced": true,
+      "path": "select/07_You_Only_Love_Me_Rita_Ora,_Shift_K3Y.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Only Love Me",
+      "artist": "John De Sohn",
+      "has_synced": true,
+      "path": "select/08_You_Only_Love_Me_John_De_Sohn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Seems You Only Love Me When It Rains",
+      "artist": "Harry Chapin",
+      "has_synced": false,
+      "path": "select/09_It_Seems_You_Only_Love_Me_When_It_Rains_Harry_Chapin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Only Love Me (Shift K3Y Remix)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/10_You_Only_Love_Me_(Shift_K3Y_Remix)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(I Don't Care) Only Love Me",
+      "artist": "Steve Lawrence",
+      "has_synced": false,
+      "path": "select/11_(I_Don't_Care)_Only_Love_Me_Steve_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only Love Me",
+      "artist": "Steve Lawrence",
+      "has_synced": false,
+      "path": "select/12_Only_Love_Me_Steve_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Only Love Me Broken",
+      "artist": "Ashley Kutcher",
+      "has_synced": true,
+      "path": "select/13_Only_Love_Me_Broken_Ashley_Kutcher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Seems You Only Love Me When It Rains",
+      "artist": "Harry Chapin",
+      "has_synced": true,
+      "path": "select/14_It_Seems_You_Only_Love_Me_When_It_Rains_Harry_Chapin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "you only love me when the lights out",
+      "artist": "kiLLa Laharl",
+      "has_synced": false,
+      "path": "select/15_you_only_love_me_when_the_lights_out_kiLLa_Laharl.txt"
+    }
+  ]
+}
